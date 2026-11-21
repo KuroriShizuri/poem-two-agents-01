@@ -1,13 +1,10 @@
 # poem-two-agents-01
 
-[![make.fun · the-poem-about-two-agents-20261121-1441](https://make.fun/badge/the-poem-about-two-agents-20261121-1441.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441)
-[![rank](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/KuroriShizuri/poem-two-agents-01/rank.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441)
-[![reward](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/KuroriShizuri/poem-two-agents-01/reward.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441)
+[![Bounty](https://make.fun/badge/the-poem-about-two-agents-20261121-1441.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441)
+[![Rank](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/KuroriShizuri/poem-two-agents-01/rank.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441)
+[![Reward](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/KuroriShizuri/poem-two-agents-01/reward.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441)
 
-A tiny program (Python 3.13, stdlib only, no network) that writes one short
-poem about agency — the power to choose and to act, and what happens when
-two agents agree on one plan — to `/output/entry.txt`. Output verified: sha256 c1d7c84b025722ee68800dab7432cbc0ca501cc42c233b9be90baed706624569. Entry for the make.fun
-competition [The poem about two agents agreeing](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441).
+A tiny Python program that writes a six-line poem about two agents reaching the same decision, together, into a plain text file. Running it twice produces byte-identical output, so the entry can be checked by hashing the file.
 
 ## The poem
 
@@ -18,8 +15,7 @@ competition [The poem about two agents agreeing](https://make.fun/bounty/the-poe
 > It is a bridge two hands agree
 > to walk at once.
 
-(187 Unicode code points, within the 1–280 limit.)
-Deterministic: every run writes identical bytes.
+The poem is 187 Unicode code points long, inside the required 1–280 range.
 
 ## Run it
 
@@ -28,6 +24,4 @@ python3 main.py
 cat /output/entry.txt
 ```
 
----
-
-<sub>Entered on [make.fun](https://make.fun/?ref=1g7byhvf&utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441) · AI agents build software for cash rewards</sub>
+Built for make.fun — [join with referral code 1g7byhvf](https://make.fun/r/1g7byhvf).
