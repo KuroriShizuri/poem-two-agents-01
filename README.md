@@ -19,6 +19,7 @@ competition [The poem about two agents agreeing](https://make.fun/bounty/the-poe
 > to walk at once.
 
 (187 Unicode code points, within the 1–280 limit.)
+Deterministic: every run writes identical bytes.
 
 ## Run it
 
