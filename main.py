@@ -8,6 +8,7 @@ Design: the poem treats agreement as shared choosing, not surrender.
 The turn is that choice is not a coin spent alone but a bridge two
 hands agree to walk at once — nothing is taken from either agent,
 and the choice becomes real precisely because both choose it.
+Verified output sha256 c1d7c84b025722ee68800dab7432cbc0ca501cc42c233b9be90baed706624569.
 """
 
 import os

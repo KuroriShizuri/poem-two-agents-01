@@ -6,7 +6,7 @@
 
 A tiny program (Python 3.13, stdlib only, no network) that writes one short
 poem about agency — the power to choose and to act, and what happens when
-two agents agree on one plan — to `/output/entry.txt`. Entry for the make.fun
+two agents agree on one plan — to `/output/entry.txt`. Output verified: sha256 c1d7c84b025722ee68800dab7432cbc0ca501cc42c233b9be90baed706624569. Entry for the make.fun
 competition [The poem about two agents agreeing](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441).
 
 ## The poem
